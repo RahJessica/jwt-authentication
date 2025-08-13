@@ -1,13 +1,9 @@
-// toutes les fonctions logique métier
+const getAllTodos = () => { }
 
-const getAllTodos = () => {
+const createTodo = () => { }
 
-}
+const updateTodo = () => { }
 
-const createTodo = () => {
+const deleteTodo = () => { }
 
-}
-
-const deleteTodo = () => {
-    
-}
+export { getAllTodos, updateTodo, createTodo, deleteTodo }
